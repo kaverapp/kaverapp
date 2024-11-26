@@ -11,7 +11,7 @@ Learning new tech stacks and contributing to open-source
 Advanced Web App Development with modern frameworks
 Best practices for scalable backend solutions
 Integrating AI tools into applications
-💞️ I’m looking to collaborate on:
+ I’m looking to collaborate on:
 
 Web development projects (front-end and back-end)
 AI-powered app integrations
