@@ -52,4 +52,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kaverappa-K&color=blue&style=flat)
 
-https://github.com/kaverapp/BLOGGING-PLATFORM-API/blob/main/datapreprocess.ipynb
