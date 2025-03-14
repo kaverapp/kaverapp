@@ -48,6 +48,10 @@
   <a href="https://youtube.com/@Kaverappa">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+   <a href="https://www.kaggle.com/kaverappa">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+   </a>
+
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kaverappa-K&color=blue&style=flat)
